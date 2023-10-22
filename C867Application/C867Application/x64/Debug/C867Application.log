@@ -1,0 +1,12 @@
+﻿  roster.cpp
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(37,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(42,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(47,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(52,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(57,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(62,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(66,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(70,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(75,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\baile\source\repos\C867Application\C867Application\roster.cpp(34,16): warning C4101: 'degreeProgram': unreferenced local variable
+  C867Application.vcxproj -> C:\Users\baile\source\repos\C867Application\x64\Debug\C867Application.exe
